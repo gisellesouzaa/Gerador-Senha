@@ -1,6 +1,5 @@
 <h1 align="center">Gerador de senha</h1>
-<p align="center">O Gerador de Senhas cria senhas aleatórias de qualquer tamanho.</p>
-<p align="center">A aleatoriedade das senhas geradas as fazem difíceis de serem adivinhadas.</p>
+<p align="center">O aplicativo gera senhas aleatórias do tamanho escolhido pelo usuário.</p>
 
 <h1 align="center">
   <img alt="gerador_senha" title="gerador_senha" src="gerador.gif"/>
