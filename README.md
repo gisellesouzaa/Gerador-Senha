@@ -1,5 +1,5 @@
 <h1 align="center">Gerador de senha</h1>
-<p align="center">O Gerador de Senhas gera senhas aleatórias de qualquer tamanho.</p>
+<p align="center">O Gerador de Senhas cria senhas aleatórias de qualquer tamanho.</p>
 <p align="center">A aleatoriedade das senhas geradas as fazem difíceis de serem adivinhadas.</p>
 
 <h1 align="center">
@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Link
 
 <p style="font-size: 12px">
-  <a href="https://giselle-souza.github.io/Gerador-Senha/" target="_blank">Clique aqui</a> para testar o site.</p>
+  <a href="https://gisellesouzaa.github.io/Gerador-Senha/" target="_blank">Clique aqui</a> para testar o site.</p>
 
 ---
 
